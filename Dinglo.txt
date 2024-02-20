@@ -1,8 +1,14 @@
 Dinglo Kodak, 20214311, CS6B, SE: Tool Github, Group: 13
 
-First branch created now creating a file to compare and pull request
-added a file
+ 
+added a file,
+Commits changes using a new branch,
 pulled a request
+proposed changes
+Changes accepted
 committed the request
-since no difference in new branch and base, merging pull request not needed.
+merge pull request
+merge successful
+delete branch
+
 done
