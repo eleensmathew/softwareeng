@@ -1,1 +1,8 @@
+Dinglo Kodak, 20214311, CS6B, SE: Tool Github, Group: 13
+
 First branch created now creating a file to compare and pull request
+added a file
+pulled a request
+committed the request
+since no difference in new branch and base, merging pull request not needed.
+done
