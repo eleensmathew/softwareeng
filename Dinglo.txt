@@ -11,4 +11,5 @@ merge pull request
 merge successful
 delete branch
 
+he;llo hi
 done
