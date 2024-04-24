@@ -1,0 +1,14 @@
+Dinglo Kodak, 20214311, CS6B, SE: Tool Github, Group: 13
+
+ 
+added a file,
+Commits changes using a new branch,
+pulled a request
+proposed changes
+Changes accepted
+committed the request
+merge pull request
+merge successful
+delete branch
+
+done
